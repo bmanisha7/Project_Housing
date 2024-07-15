@@ -2,9 +2,10 @@
 
 ### The given assessment
 
-Question 1:
+#### Question 1:
 Design a database schema that can handle the operations of a room reservation system for a global hotel chain. Ensure the schema is scalable, maintainable, and supports necessary business operations.
-Question 2:
+
+#### Question 2:
 Using the provided CSV files. Please create a CSV file that contains the following headers:
  
 Column Name
