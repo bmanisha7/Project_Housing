@@ -9,3 +9,5 @@ Design a database schema that can handle the operations of a room reservation sy
 Using the provided CSV files. Asked to generate another CSV file with the given constraints.
 Please include a description of any data cleaning policies that you applied.
 If there are any rows that could not be included in the final sheet, please include them and indicate why/how it was not possible to include them.
+
+- The final data is named as room_data.csv.
